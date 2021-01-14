@@ -1,7 +1,5 @@
 # skribbl.io-Word-Rando
 
-requirements: python 3.8
-
 1. create a txt files, "words.txt"
 2. put all your words into words.txt, separated by a comma, NO SPACE, that's ',' NOT ', '
 3. run randomizeSkribblioList.exe
